@@ -7,7 +7,7 @@ Developers using other map SDKs typically run into performance,
 capacity or feature walls that block development, and the Altus Mapping Engine can eliminate those walls.
 
 Get the BA3 Altus Windows 8.1 SDK and Sample Applications
-===============================----=======================
+=========================================================
 
 Complete source code is supplied for all of the Altus Mapping Engine tutorials, 
 and the tutorials themselves can be found in the 
