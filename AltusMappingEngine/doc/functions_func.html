@@ -95,6 +95,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="#index_r"><span>r</span></a></li>
       <li><a href="#index_s"><span>s</span></a></li>
       <li><a href="#index_u"><span>u</span></a></li>
+      <li><a href="#index_w"><span>w</span></a></li>
       <li class="current"><a href="#index_z"><span>z</span></a></li>
     </ul>
   </div>
@@ -158,6 +159,9 @@ $(document).ready(function(){initNavTree('functions_func.html','');});
 <li>AddHaloPulse()
 : <a class="el" href="class_m_e_1_1_controls_1_1_map_view.html#adbf1900c30d2b500108f49abb7c60c7c">ME.Controls.MapView</a>
 </li>
+<li>AddInternetMap()
+: <a class="el" href="class_m_e_1_1_controls_1_1_map_view.html#a2efe6687eb1b39a8565c8d8b0dd0fcb6">ME.Controls.MapView</a>
+</li>
 <li>AddMap()
 : <a class="el" href="class_m_e_1_1_controls_1_1_map_view.html#ae8567e599ac8febc15b2e9bfa45eb533">ME.Controls.MapView</a>
 </li>
@@ -171,7 +175,7 @@ $(document).ready(function(){initNavTree('functions_func.html','');});
 : <a class="el" href="class_m_e_1_1_controls_1_1_map_view.html#afb48115ebacf67de5cd38d95f3c3271c">ME.Controls.MapView</a>
 </li>
 <li>AddPoint()
-: <a class="el" href="class_m_e_1_1_foundation_1_1_vector_1_1_line.html#aa0a5592cb81ab9fd647448dd564db895">ME.Foundation.Vector.Line</a>
+: <a class="el" href="class_m_e_1_1_foundation_1_1_vector_1_1_line.html#a901013a9c7ebefa1edf9d7cd91bfff5a">ME.Foundation.Vector.Line</a>
 </li>
 <li>AddSphericalMercatorMap()
 : <a class="el" href="class_m_e_1_1_controls_1_1_map_view.html#a7cc57e131c692fb0bdc1b6024168b5c0">ME.Controls.MapView</a>
@@ -237,12 +241,21 @@ $(document).ready(function(){initNavTree('functions_func.html','');});
 <li>GeometryGroup()
 : <a class="el" href="class_m_e_1_1_foundation_1_1_vector_1_1_geometry_group.html#a5264bcf231e32f25b989747cc4085453">ME.Foundation.Vector.GeometryGroup</a>
 </li>
+<li>GetImage()
+: <a class="el" href="class_m_e_1_1_controls_1_1_web_map_tile_provider.html#a0f59dc3ea5f85dbb17a66d33d9bcdd3e">ME.Controls.WebMapTileProvider</a>
+</li>
 <li>GetLocationThatFitsCoordinates()
 : <a class="el" href="class_m_e_1_1_controls_1_1_map_view.html#a64d2bf3b3ce8c30784651ee5c5c2db09">ME.Controls.MapView</a>
 </li>
 <li>GetMarkerImage()
 : <a class="el" href="class_m_e_1_1_controls_1_1_map_view.html#a4c01d364e0742efee591d813011ae9c2">ME.Controls.MapView</a>
 , <a class="el" href="interface_m_e_1_1_foundation_1_1_markers_1_1_i_managed_marker_map_delegate.html#aa24213d40b9327c5a1c953a08208a703">ME.Foundation.Markers.IManagedMarkerMapDelegate</a>
+</li>
+<li>GetTileFileName()
+: <a class="el" href="class_m_e_1_1_controls_1_1_web_map_tile_provider.html#a22e7bd714e80912a25ecf65700306702">ME.Controls.WebMapTileProvider</a>
+</li>
+<li>GetTileURL()
+: <a class="el" href="class_m_e_1_1_controls_1_1_web_map_tile_provider.html#a325d8fe262db672fc5be234dc7a5e395">ME.Controls.WebMapTileProvider</a>
 </li>
 </ul>
 
@@ -325,7 +338,8 @@ $(document).ready(function(){initNavTree('functions_func.html','');});
 : <a class="el" href="class_m_e_1_1_controls_1_1_map_view.html#a9651373e069a9d61679cb2b6a6237e5b">ME.Controls.MapView</a>
 </li>
 <li>RequestTiles()
-: <a class="el" href="interface_m_e_1_1_foundation_1_1_virtual_maps_1_1_i_spherical_mercator_tile_provider.html#af8b846ec868cdf4b312b264b1fb40ca3">ME.Foundation.VirtualMaps.ISphericalMercatorTileProvider</a>
+: <a class="el" href="class_m_e_1_1_controls_1_1_web_map_tile_provider.html#a39bd28757ed0c5115f6f072752db0fca">ME.Controls.WebMapTileProvider</a>
+, <a class="el" href="interface_m_e_1_1_foundation_1_1_virtual_maps_1_1_i_spherical_mercator_tile_provider.html#af8b846ec868cdf4b312b264b1fb40ca3">ME.Foundation.VirtualMaps.ISphericalMercatorTileProvider</a>
 </li>
 </ul>
 
@@ -375,6 +389,13 @@ $(document).ready(function(){initNavTree('functions_func.html','');});
 </ul>
 
 
+<h3><a class="anchor" id="index_w"></a>- w -</h3><ul>
+<li>WebMapTileProvider()
+: <a class="el" href="class_m_e_1_1_controls_1_1_web_map_tile_provider.html#a2ad415f5d29b255d617d1eed79087118">ME.Controls.WebMapTileProvider</a>
+</li>
+</ul>
+
+
 <h3><a class="anchor" id="index_z"></a>- z -</h3><ul>
 <li>ZoomIn()
 : <a class="el" href="class_m_e_1_1_controls_1_1_map_view.html#af1f0a6a7be7da3a0c1009c01c2e73465">ME.Controls.MapView</a>
@@ -388,7 +409,7 @@ $(document).ready(function(){initNavTree('functions_func.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Wed Jan 1 2014 15:22:15 for Altus Mapping Engine for Windows 8.1 by
+    <li class="footer">Generated on Thu Jan 2 2014 00:14:44 for Altus Mapping Engine for Windows 8.1 by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

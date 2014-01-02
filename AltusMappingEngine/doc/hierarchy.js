@@ -30,7 +30,9 @@ var hierarchy =
     [ "ME.Foundation.Markers.IMarkerProvider", "interface_m_e_1_1_foundation_1_1_markers_1_1_i_marker_provider.html", [
       [ "ME.Controls.MapView", "class_m_e_1_1_controls_1_1_map_view.html", null ]
     ] ],
-    [ "ME.Foundation.VirtualMaps.ISphericalMercatorTileProvider", "interface_m_e_1_1_foundation_1_1_virtual_maps_1_1_i_spherical_mercator_tile_provider.html", null ],
+    [ "ME.Foundation.VirtualMaps.ISphericalMercatorTileProvider", "interface_m_e_1_1_foundation_1_1_virtual_maps_1_1_i_spherical_mercator_tile_provider.html", [
+      [ "ME.Controls.WebMapTileProvider", "class_m_e_1_1_controls_1_1_web_map_tile_provider.html", null ]
+    ] ],
     [ "ME.Foundation.Vector.Line", "class_m_e_1_1_foundation_1_1_vector_1_1_line.html", null ],
     [ "ME.Foundation.Styles.LineStyle", "class_m_e_1_1_foundation_1_1_styles_1_1_line_style.html", null ],
     [ "ME.Foundation.Location", "class_m_e_1_1_foundation_1_1_location.html", null ],
