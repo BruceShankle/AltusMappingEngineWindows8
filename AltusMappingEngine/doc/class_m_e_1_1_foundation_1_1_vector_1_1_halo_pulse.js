@@ -11,6 +11,6 @@ var class_m_e_1_1_foundation_1_1_vector_1_1_halo_pulse =
     [ "Name", "class_m_e_1_1_foundation_1_1_vector_1_1_halo_pulse.html#a308f0c77945e66709f41a275cde811d8", null ],
     [ "RepeatDelay", "class_m_e_1_1_foundation_1_1_vector_1_1_halo_pulse.html#a1517e3ff0a27b72f6229d95601861a6d", null ],
     [ "SegmentCount", "class_m_e_1_1_foundation_1_1_vector_1_1_halo_pulse.html#a510355a5d49fed209c2ce9b50716cacb", null ],
-    [ "UseWorldSpace", "class_m_e_1_1_foundation_1_1_vector_1_1_halo_pulse.html#a32b34fd8f5f0b240b2d0f0913256e561", null ],
+    [ "UseWorldSpace", "class_m_e_1_1_foundation_1_1_vector_1_1_halo_pulse.html#a84eff0faacaf396e7ef5268d4d557105", null ],
     [ "ZOrder", "class_m_e_1_1_foundation_1_1_vector_1_1_halo_pulse.html#a687b212aeaf838942f113ca1b0924a1c", null ]
 ];

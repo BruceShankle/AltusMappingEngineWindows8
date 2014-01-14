@@ -9,5 +9,6 @@ var searchData=
   ['compresstextures',['CompressTextures',['../class_m_e_1_1_foundation_1_1_map_info.html#ac216429a7b9078cdc4f4fc5f9791c225',1,'ME.Foundation.MapInfo.CompressTextures()'],['../class_m_e_1_1_foundation_1_1_markers_1_1_marker_map_info.html#a2ab68692689c347a2c67282295b6741f',1,'ME.Foundation.Markers.MarkerMapInfo.CompressTextures()'],['../class_m_e_1_1_foundation_1_1_markers_1_1_memory_clustered_marker_map_info.html#ac94085a4baad33f3f541e0b225ae2aec',1,'ME.Foundation.Markers.MemoryClusteredMarkerMapInfo.CompressTextures()'],['../class_m_e_1_1_foundation_1_1_virtual_maps_1_1_spherical_mercator_map_desc.html#af5d3bbdbe582d054121475237c5ce0bf',1,'ME.Foundation.VirtualMaps.SphericalMercatorMapDesc.CompressTextures()']]],
   ['containsmap',['ContainsMap',['../class_m_e_1_1_controls_1_1_map_view.html#a88ad04332d62f24c5566b37a2b9c4780',1,'ME::Controls::MapView']]],
   ['convertcoordinate',['ConvertCoordinate',['../class_m_e_1_1_controls_1_1_map_view.html#a9328cb63f42788579ddf1ffcb0163007',1,'ME::Controls::MapView']]],
-  ['convertpoint',['ConvertPoint',['../class_m_e_1_1_controls_1_1_map_view.html#aab79a67c62f06e9ef99d80a6a72cf565',1,'ME::Controls::MapView']]]
+  ['convertpoint',['ConvertPoint',['../class_m_e_1_1_controls_1_1_map_view.html#aab79a67c62f06e9ef99d80a6a72cf565',1,'ME::Controls::MapView']]],
+  ['coursefrompoint',['CourseFromPoint',['../class_m_e_1_1_controls_1_1_map_view.html#a053721dd97993554320247be3482a11e',1,'ME::Controls::MapView']]]
 ];

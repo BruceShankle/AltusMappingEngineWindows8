@@ -4,6 +4,7 @@ var searchData=
   ['debugeventargs',['DebugEventArgs',['../class_m_e_1_1_controls_1_1_debug_event_args.html',1,'ME::Controls']]],
   ['debugeventhandler',['DebugEventHandler',['../namespace_m_e_1_1_controls.html#aec0c95023f97b08df82f65b7bf9faa13',1,'ME::Controls']]],
   ['defaulttilename',['DefaultTileName',['../class_m_e_1_1_foundation_1_1_map_info.html#a821dbd516aaefda2cca7aacb04d7e073',1,'ME.Foundation.MapInfo.DefaultTileName()'],['../class_m_e_1_1_foundation_1_1_virtual_maps_1_1_spherical_mercator_map_desc.html#a539917fc3f2c1ae1944ab02ff46974e4',1,'ME.Foundation.VirtualMaps.SphericalMercatorMapDesc.DefaultTileName()']]],
+  ['distancebetween',['DistanceBetween',['../class_m_e_1_1_controls_1_1_map_view.html#a5a4cc82b9c8715f4b5aa04279fb9258b',1,'ME::Controls::MapView']]],
   ['dynamicmarker',['DynamicMarker',['../class_m_e_1_1_foundation_1_1_markers_1_1_dynamic_marker.html',1,'ME::Foundation::Markers']]],
   ['dynamicmarkermapinfo',['DynamicMarkerMapInfo',['../class_m_e_1_1_foundation_1_1_markers_1_1_dynamic_marker_map_info.html#a7722f15ddd6bd65495d890f84b8a65b0',1,'ME::Foundation::Markers::DynamicMarkerMapInfo']]],
   ['dynamicmarkermapinfo',['DynamicMarkerMapInfo',['../class_m_e_1_1_foundation_1_1_markers_1_1_dynamic_marker_map_info.html',1,'ME::Foundation::Markers']]],

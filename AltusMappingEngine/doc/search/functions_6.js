@@ -4,5 +4,6 @@ var searchData=
   ['imagefrombitmapimage',['ImageFromBitmapImage',['../class_m_e_1_1_controls_1_1_image_util.html#ad9a3e9637cbd0c76e6a39622b4d154c8',1,'ME::Controls::ImageUtil']]],
   ['imagefromstoragefile',['ImageFromStorageFile',['../class_m_e_1_1_controls_1_1_image_util.html#a6b469ac0186f2341585276b379d997de',1,'ME::Controls::ImageUtil']]],
   ['imagefromstream',['ImageFromStream',['../class_m_e_1_1_controls_1_1_image_util.html#a19a3ba98552b2d685b86a34856a068c9',1,'ME::Controls::ImageUtil']]],
-  ['imagefromuri',['ImageFromUri',['../class_m_e_1_1_controls_1_1_image_util.html#ad741262f729bf8174e626c07df777f40',1,'ME::Controls::ImageUtil']]]
+  ['imagefromuri',['ImageFromUri',['../class_m_e_1_1_controls_1_1_image_util.html#ad741262f729bf8174e626c07df777f40',1,'ME::Controls::ImageUtil']]],
+  ['ispoweroftwo',['IsPowerOfTwo',['../class_m_e_1_1_controls_1_1_map_view.html#aaa367f49435895574907be025333e4b1',1,'ME::Controls::MapView']]]
 ];

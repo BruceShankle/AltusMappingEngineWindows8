@@ -127,8 +127,12 @@
     <Content Include="Assets\SmallLogo.scale-100.png" />
     <Content Include="Assets\SplashScreen.scale-100.png" />
     <Content Include="Assets\StoreLogo.scale-100.png" />
-    <Content Include="libEGL.dll" />
-    <Content Include="libGLESv2.dll" />
+    <Content Include="libEGL.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="libGLESv2.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
@@ -141,13 +145,16 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="ME.Controls">
+    <Reference Include="ME.Controls, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\AltusMappingEngine\x86\ME.Controls.dll</HintPath>
     </Reference>
-    <Reference Include="ME.Foundation">
+    <Reference Include="ME.Foundation, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\AltusMappingEngine\x86\ME.Foundation.winmd</HintPath>
     </Reference>
-    <Reference Include="ME.Rendering">
+    <Reference Include="ME.Rendering, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\AltusMappingEngine\x86\ME.Rendering.winmd</HintPath>
     </Reference>
   </ItemGroup>

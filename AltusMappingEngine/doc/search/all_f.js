@@ -1,7 +1,8 @@
 var searchData=
 [
-  ['rastertile',['RasterTile',['../class_m_e_1_1_foundation_1_1_virtual_maps_1_1_raster_tile.html',1,'ME::Foundation::VirtualMaps']]],
+  ['radianstonauticalmiles',['RadiansToNauticalMiles',['../class_m_e_1_1_controls_1_1_map_view.html#aec353a7b0514a363f30756f9a447e188',1,'ME::Controls::MapView']]],
   ['rastertile',['RasterTile',['../class_m_e_1_1_foundation_1_1_virtual_maps_1_1_raster_tile.html#ada5b81ed02c1cdb0fd29c22c32b3db4c',1,'ME::Foundation::VirtualMaps::RasterTile']]],
+  ['rastertile',['RasterTile',['../class_m_e_1_1_foundation_1_1_virtual_maps_1_1_raster_tile.html',1,'ME::Foundation::VirtualMaps']]],
   ['removeallmaps',['RemoveAllMaps',['../class_m_e_1_1_controls_1_1_map_view.html#af22701ec11c6c2702569c1c91240b213',1,'ME::Controls::MapView']]],
   ['removedynamicmarker',['RemoveDynamicMarker',['../class_m_e_1_1_controls_1_1_map_view.html#a1e3b4c4954817e4d015961ae0a38e72f',1,'ME::Controls::MapView']]],
   ['removehalopulse',['RemoveHaloPulse',['../class_m_e_1_1_controls_1_1_map_view.html#a3306a19bc3519060fed8dd69d6d5daf2',1,'ME::Controls::MapView']]],
