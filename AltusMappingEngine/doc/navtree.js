@@ -32,7 +32,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"classes.html"
+"class_m_e_1_1_foundation_1_1_virtual_maps_1_1_spherical_mercator_raster_tile_desc.html#ada8938ac66304bf07a2b2ccc164f5d1f"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

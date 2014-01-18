@@ -43,6 +43,7 @@ var class_m_e_1_1_controls_1_1_map_view =
     [ "SetDynamicMarkerRotation", "class_m_e_1_1_controls_1_1_map_view.html#a0c9cb367c9b339ab3fa6dd3c1a5f7bfd", null ],
     [ "SetHaloPulseLocation", "class_m_e_1_1_controls_1_1_map_view.html#a797388bb57f101851bc0ec65023478ab", null ],
     [ "SetHaloPulseLocation", "class_m_e_1_1_controls_1_1_map_view.html#a05a278d5c7ec78b15c2bcd63696a8112", null ],
+    [ "SetLicenseKey", "class_m_e_1_1_controls_1_1_map_view.html#a5d83886269a9c0551964573e11a7ad22", null ],
     [ "SetLocation", "class_m_e_1_1_controls_1_1_map_view.html#a63e3531648b47f6b3518e9eb9b9779f8", null ],
     [ "SetLocation", "class_m_e_1_1_controls_1_1_map_view.html#a3a83652f199bb89705fc03b0a6825738", null ],
     [ "SetLocation", "class_m_e_1_1_controls_1_1_map_view.html#a4f7a6f62c68c945b8e5578bc476dae5b", null ],
